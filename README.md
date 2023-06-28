@@ -31,7 +31,7 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 - _should go here_
 
 ## License
-
+_MIT_ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 _{Let people know what to do if they run into any issues or have questions, ideas or concerns. Encourage them to contact you or make a contribution to the code.}_
 
 Copyright (c) _date_ _author name(s)_
